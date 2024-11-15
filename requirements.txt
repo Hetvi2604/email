@@ -1,0 +1,6 @@
+
+Flask
+pandas
+openai
+celery
+redis
