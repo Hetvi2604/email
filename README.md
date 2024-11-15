@@ -9,7 +9,6 @@ This is a Flask application that allows users to upload CSV data, customize emai
    ```bash
    pip install -r requirements.txt
 
-
 ## Run the Application
 
 1. Start the Celery worker:
